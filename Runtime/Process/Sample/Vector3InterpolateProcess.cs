@@ -1,9 +1,9 @@
 ﻿using System;
-using NabaGame.Core.Runtime.Pool;
-using NabaGame.Core.Runtime.Utils;
+using NQH.Core.Runtime.Pool;
+using NQH.Core.Runtime.Utils;
 using UnityEngine;
 
-namespace NabaGame.Core.Runtime.Process
+namespace NQH.Core.Runtime.Process
 {
 	public class Vector3InterpolateProcess : Process, IPoolable
 	{

@@ -1,6 +1,6 @@
 ﻿using System;
 using UnityEngine;
-namespace NabaGame.Core.Runtime.Utils
+namespace NQH.Core.Runtime.Utils
 {
 	[Serializable]
 	public class Pair<T1, T2>

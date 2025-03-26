@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace NabaGame.Core.Runtime.TickManager
+namespace NQH.Core.Runtime.TickManager
 {
     public class TickableBehaviour : MonoBehaviour, ITickable
     {

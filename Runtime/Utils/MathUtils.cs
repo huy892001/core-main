@@ -5,7 +5,7 @@ using System.Numerics;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace NabaGame.Core.Runtime.Utils
+namespace NQH.Core.Runtime.Utils
 {
     public static class MathUtils
     {

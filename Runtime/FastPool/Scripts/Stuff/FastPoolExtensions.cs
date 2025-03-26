@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-namespace NabaGame.Core.Runtime.Pool
+namespace NQH.Core.Runtime.Pool
 {
     public static class FastPoolExtensions
     {

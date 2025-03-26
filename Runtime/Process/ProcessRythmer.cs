@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace NabaGame.Core.Runtime.Process
+namespace NQH.Core.Runtime.Process
 {
     [AddComponentMenu("LeeWayner/Process/Rythmer")]
     public class ProcessRythmer : MonoBehaviour {

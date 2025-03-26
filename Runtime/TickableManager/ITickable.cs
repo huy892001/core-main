@@ -1,4 +1,4 @@
-﻿namespace NabaGame.Core.Runtime.TickManager
+﻿namespace NQH.Core.Runtime.TickManager
 {
     public interface ITickable
     {

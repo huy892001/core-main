@@ -2,7 +2,7 @@
 using System.IO;
 using System.Security.Cryptography;
 
-namespace NabaGame.Core.Runtime.Utils
+namespace NQH.Core.Runtime.Utils
 {
     public static class EncryptionUtils
     {

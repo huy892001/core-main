@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace NabaGame.Core.Runtime.Extensions
+namespace NQH.Core.Runtime.Extensions
 {
     public static class DateTimeExtensions
     {

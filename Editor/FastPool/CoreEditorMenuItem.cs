@@ -4,16 +4,16 @@ using UnityEngine;
 using UnityEngine.UI;
 using Object = UnityEngine.Object;
 
-namespace NabaGame.Core.Editor.Pool
+namespace NQH.Core.Editor.Pool
 {
     public static class CoreEditorMenuItem
     {
-        [MenuItem("GameObject/Naba Game/FastPoolManager", false, 0)]
+        [MenuItem("GameObject/NQH/FastPoolManager", false, 0)]
         public static void AddFastPoolManager()
         {
             Object prefab =
                 AssetDatabase.LoadAssetAtPath<Object>(
-                    "Packages/com.nabagame.core/Runtime/FastPool/Prefabs/FastPoolManager.prefab");
+                    "Packages/com.nqh.core/Runtime/FastPool/Prefabs/FastPoolManager.prefab");
             if (prefab != null)
             {
                 PrefabUtility.InstantiatePrefab(prefab);
@@ -24,7 +24,7 @@ namespace NabaGame.Core.Editor.Pool
             }
         }
 
-        [MenuItem("GameObject/Naba Game/Disable RaycastTargets", false, 49)]
+        [MenuItem("GameObject/NQH/Disable RaycastTargets", false, 49)]
         private static void DisableRaycastTarget()
         {
             foreach (GameObject go in Selection.gameObjects)
@@ -66,7 +66,7 @@ namespace NabaGame.Core.Editor.Pool
             }
         }
 
-        [MenuItem("GameObject/Naba Game/Disable RaycastTargets", true, 49)]
+        [MenuItem("GameObject/NQH/Disable RaycastTargets", true, 49)]
         private static bool ValidateDisableRayCastTargets()
         {
             if (Selection.gameObjects.Length <= 0)

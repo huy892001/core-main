@@ -5,7 +5,7 @@ using System.Collections.Generic;
 using System.Text;
 using System;
 
-namespace NabaGame.Core.Editor.Utils
+namespace NQH.Core.Editor.Utils
 {
     public static class NB_GlobalDefineUtils
     {

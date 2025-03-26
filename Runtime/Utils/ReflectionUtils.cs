@@ -4,7 +4,7 @@ using System.Linq;
 using System.Reflection;
 using UnityEngine;
 
-namespace NabaGame.Core.Runtime.Utils
+namespace NQH.Core.Runtime.Utils
 {
     public static class ReflectionUtils
     {

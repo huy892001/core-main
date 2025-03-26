@@ -1,6 +1,6 @@
 ﻿using System.Text.RegularExpressions;
 
-namespace NabaGame.Core.Runtime.Utils
+namespace NQH.Core.Runtime.Utils
 {
     public static class IPValidator
     {

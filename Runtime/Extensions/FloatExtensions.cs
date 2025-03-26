@@ -1,7 +1,7 @@
 using System;
 using UnityEngine;
 
-namespace NabaGame.Core.Runtime.Extensions
+namespace NQH.Core.Runtime.Extensions
 {
     public static class FloatExtensions
     {

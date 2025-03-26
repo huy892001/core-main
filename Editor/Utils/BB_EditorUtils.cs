@@ -8,7 +8,7 @@ using System.Collections.Generic;
 using UnityEngine.SceneManagement;
 using UnityEditor.SceneManagement;
 
-namespace NabaGame.Core.Editor.Utils
+namespace NQH.Core.Editor.Utils
 {
     public static class BB_EditorUtils
     {

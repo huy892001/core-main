@@ -1,4 +1,4 @@
-﻿namespace NabaGame.Core.Runtime.FSM
+﻿namespace NQH.Core.Runtime.FSM
 {
 	public class FSMAction
 	{

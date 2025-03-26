@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using JetBrains.Annotations;
 using UnityEngine;
 
-namespace NabaGame.Core.Runtime.Utils
+namespace NQH.Core.Runtime.Utils
 {
 	public static class ColorUtils
 	{

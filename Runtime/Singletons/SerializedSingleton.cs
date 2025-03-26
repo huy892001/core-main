@@ -3,7 +3,7 @@ using Sirenix.OdinInspector;
 using System;
 using UnityEngine;
 
-namespace NabaGame.Core.Runtime.Singleton
+namespace NQH.Core.Runtime.Singleton
 {
     public abstract class SerializedSingleton<T> : SerializedMonoBehaviour where T : SerializedMonoBehaviour
     {

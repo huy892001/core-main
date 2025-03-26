@@ -1,8 +1,8 @@
 ﻿using System;
-using NabaGame.Core.Runtime.Pool;
+using NQH.Core.Runtime.Pool;
 using UnityEngine;
 
-namespace NabaGame.Core.Runtime.Process
+namespace NQH.Core.Runtime.Process
 {
 	public class TransformInterpolateProcess : Vector3InterpolateProcess, IPoolable
 	{

@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine;
 
-namespace NabaGame.Core.Runtime.Singleton
+namespace NQH.Core.Runtime.Singleton
 {
     public abstract class Singleton<T> : MonoBehaviour where T : MonoBehaviour
     {

@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace NabaGame.Core.Runtime.Process
+namespace NQH.Core.Runtime.Process
 {
     public class FadeInProcess : InterpolateProcess
     {

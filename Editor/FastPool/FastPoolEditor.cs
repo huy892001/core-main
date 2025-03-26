@@ -1,9 +1,9 @@
-﻿using NabaGame.Core.Runtime.Pool;
+﻿using NQH.Core.Runtime.Pool;
 using UnityEngine;
 using UnityEditor;
 using Action = System.Action;
 
-namespace NabaGame.Core.Editor.Pool
+namespace NQH.Core.Editor.Pool
 {
     [CustomPropertyDrawer(typeof(FastPool))]
     public class FastPoolEditor : PropertyDrawer

@@ -4,7 +4,7 @@ using System.IO;
 using UnityEditor;
 using UnityEngine;
 
-namespace NabaGame.Core.Editor.Utils
+namespace NQH.Core.Editor.Utils
 {
     public static class AssetUtils
     {

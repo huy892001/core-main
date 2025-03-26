@@ -1,9 +1,9 @@
 ﻿using UnityEngine;
 using UnityEditor;
 using System.Collections.Generic;
-using NabaGame.Core.Runtime.Pool;
+using NQH.Core.Runtime.Pool;
 
-namespace NabaGame.Core.Editor.Pool
+namespace NQH.Core.Editor.Pool
 {
     [CustomEditor(typeof(FastPoolManager))]
     public class FastPoolManagerEditor : UnityEditor.Editor

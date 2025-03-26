@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using UnityEngine;
 
-namespace NabaGame.Core.Runtime.Pool
+namespace NQH.Core.Runtime.Pool
 {
     public class MemoryPool<T> where T : IPoolable, new()
     {

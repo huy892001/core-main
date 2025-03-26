@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace NabaGame.Core.Runtime.Utils
+namespace NQH.Core.Runtime.Utils
 {
     public static class Vector3Utils
     {

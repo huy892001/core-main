@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace NabaGame.Core.Runtime.WeightedRandomization
+namespace NQH.Core.Runtime.WeightedRandomization
 {
     public class WeightedChance<T>
     {
