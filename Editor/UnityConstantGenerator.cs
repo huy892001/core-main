@@ -3,11 +3,11 @@ using UnityEngine;
 using UnityEditor;
 using System.IO;
 using System.Collections.Generic;
-namespace NQH.Core.Editor
+namespace NabaGame.Core.Editor
 {
     public static class UnityConstantGenerator
     {
-        [MenuItem("NQH/Editor Tools/Generate UnityConstants.cs",false, 100)]
+        [MenuItem("Naba Game/Editor Tools/Generate UnityConstants.cs",false, 100)]
         public static void Generate()
         {
             // Try to find an existing file in the project called "UnityConstants.cs"

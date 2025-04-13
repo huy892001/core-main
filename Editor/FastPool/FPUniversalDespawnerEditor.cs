@@ -1,9 +1,9 @@
 ﻿using UnityEngine;
 using System.Collections;
-using NQH.Core.Runtime.Pool;
+using NabaGame.Core.Runtime.Pool;
 using UnityEditor;
 
-namespace NQH.Core.Editor.Pool
+namespace NabaGame.Core.Editor.Pool
 {
     [CustomEditor(typeof(FPUniversalDespawner))]
     public class FPUniversalDespawnerEditor : UnityEditor.Editor

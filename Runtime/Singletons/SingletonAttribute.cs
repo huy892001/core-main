@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace NQH.Core.Runtime.Singleton
+namespace NabaGame.Core.Runtime.Singleton
 {
     [AttributeUsage(AttributeTargets.Class, Inherited = true)]
     public class SingletonAttribute : Attribute

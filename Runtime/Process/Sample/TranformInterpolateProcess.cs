@@ -1,7 +1,7 @@
-﻿using NQH.Core.Runtime.Utils;
+﻿using NabaGame.Core.Runtime.Utils;
 using UnityEngine;
 
-namespace NQH.Core.Runtime.Process
+namespace NabaGame.Core.Runtime.Process
 {
     public class TranformInterpolateProcess : Process
     {

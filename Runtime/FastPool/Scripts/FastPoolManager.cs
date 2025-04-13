@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System;
 using System.Collections;
 
-namespace NQH.Core.Runtime.Pool
+namespace NabaGame.Core.Runtime.Pool
 {
     public class FastPoolManager : MonoBehaviour
     {

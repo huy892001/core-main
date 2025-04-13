@@ -1,4 +1,4 @@
-namespace NQH.Core.Runtime.EventManager
+namespace NabaGame.Core.Runtime.EventManager
 {
     /// <summary>
     ///  Interface for event handlers

@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using UnityEngine;
 
-namespace NQH.Core.Runtime.Process
+namespace NabaGame.Core.Runtime.Process
 {
     public class ProcessManager
     {

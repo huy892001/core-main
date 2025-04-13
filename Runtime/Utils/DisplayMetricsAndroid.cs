@@ -1,4 +1,4 @@
-namespace NQH.Core.Runtime.Utils
+namespace NabaGame.Core.Runtime.Utils
 {
     using UnityEngine;
 

@@ -3,8 +3,8 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Text.RegularExpressions;
-using NQH.Core.Runtime.Extensions;
-using NQH.Core.Editor.Utils;
+using NabaGame.Core.Runtime.Extensions;
+using NabaGame.Core.Editor.Utils;
 using UnityEditor;
 using UnityEditor.Animations;
 using UnityEngine;
@@ -12,7 +12,7 @@ using UnityEngine;
 using Sirenix.OdinInspector;
 #endif
 
-namespace NQH.Core.Editor
+namespace NabaGame.Core.Editor
 {
     public class AnimatorHashGeneratorData : ScriptableObject
     {

@@ -1,9 +1,9 @@
 ﻿using System.Collections.Generic;
-using NQH.Core.Runtime.Extensions;
-using NQH.Core.Runtime.Singleton;
+using NabaGame.Core.Runtime.Extensions;
+using NabaGame.Core.Runtime.Singleton;
 using UnityEngine;
 
-namespace NQH.Core.Runtime.TickManager
+namespace NabaGame.Core.Runtime.TickManager
 {
     [DefaultExecutionOrder(-4997)]
     [Singleton("UpdateManager", true)]

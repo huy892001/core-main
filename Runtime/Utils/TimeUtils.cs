@@ -2,7 +2,7 @@
 using System.Text;
 using UnityEngine;
 
-namespace NQH.Core.Runtime.Utils
+namespace NabaGame.Core.Runtime.Utils
 {
 	public class TimeUtils
 	{

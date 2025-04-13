@@ -3,7 +3,7 @@ using System.Globalization;
 using System.Text;
 using System.Text.RegularExpressions;
 
-namespace NQH.Core.Runtime.Extensions
+namespace NabaGame.Core.Runtime.Extensions
 {
     public static class StringExtension
     {

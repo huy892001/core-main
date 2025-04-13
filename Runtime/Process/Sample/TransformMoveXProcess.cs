@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace NQH.Core.Runtime.Process
+namespace NabaGame.Core.Runtime.Process
 {
     public class TransformMoveXProcess : LinearInterpolateProcess
     {

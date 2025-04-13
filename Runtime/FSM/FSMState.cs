@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections.Generic;
 
-namespace NQH.Core.Runtime.FSM
+namespace NabaGame.Core.Runtime.FSM
 {
 	public class FSMState
 	{

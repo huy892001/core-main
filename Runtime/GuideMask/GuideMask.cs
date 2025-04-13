@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using UnityEngine.UI;
 
-namespace NQH.Core.Runtime.Tutorial
+namespace NabaGame.Core.Runtime.Tutorial
 {
     public class GuideMask : MaskableGraphic, ICanvasRaycastFilter
     {

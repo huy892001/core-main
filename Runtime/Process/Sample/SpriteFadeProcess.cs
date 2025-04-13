@@ -1,8 +1,8 @@
 ﻿using System;
-using NQH.Core.Runtime.Pool;
+using NabaGame.Core.Runtime.Pool;
 using UnityEngine;
 
-namespace NQH.Core.Runtime.Process
+namespace NabaGame.Core.Runtime.Process
 {
 	public class SpriteFadeProcess : Process, IPoolable
 	{

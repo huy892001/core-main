@@ -1,4 +1,4 @@
-﻿namespace NQH.Core.Runtime.Process
+﻿namespace NabaGame.Core.Runtime.Process
 {
     public enum ProcessState {
         CREATED,

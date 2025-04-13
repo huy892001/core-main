@@ -1,4 +1,4 @@
-namespace NQH.Core.Runtime.EventManager
+namespace NabaGame.Core.Runtime.EventManager
 {
     public class GameEvent
     {

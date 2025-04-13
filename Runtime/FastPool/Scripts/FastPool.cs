@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Collections;
 
-namespace NQH.Core.Runtime.Pool
+namespace NabaGame.Core.Runtime.Pool
 {
     /// <summary>
     /// FastPool notification type

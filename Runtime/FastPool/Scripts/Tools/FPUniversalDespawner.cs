@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-namespace NQH.Core.Runtime.Pool
+namespace NabaGame.Core.Runtime.Pool
 {
     public class FPUniversalDespawner : MonoBehaviour, IFastPoolItem
     {

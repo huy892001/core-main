@@ -2,7 +2,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace NQH.Core.Runtime.FSM
+namespace NabaGame.Core.Runtime.FSM
 {
 	///<summary>
 	/// This is the main engine of our FSM, without this, you won't be

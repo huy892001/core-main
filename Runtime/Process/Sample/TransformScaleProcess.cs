@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine;
 
-namespace NQH.Core.Runtime.Process
+namespace NabaGame.Core.Runtime.Process
 {
 	public class TransformScaleProcess : Vector3InterpolateProcess
 	{

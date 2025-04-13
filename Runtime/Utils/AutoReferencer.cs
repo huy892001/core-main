@@ -1,7 +1,7 @@
 ﻿using System.Linq;
 using UnityEngine;
 
-namespace NQH.Core.Runtime.Utils
+namespace NabaGame.Core.Runtime.Utils
 {
     public class AutoReferencer<T> : MonoBehaviour where T : AutoReferencer<T>
     {

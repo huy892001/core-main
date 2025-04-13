@@ -3,7 +3,7 @@ using UnityEditor;
 using System.Collections;
 using System.IO;
 
-namespace NQH.Core.Editor.Utils
+namespace NabaGame.Core.Editor.Utils
 {
     public static class BB_FileUtils
     {

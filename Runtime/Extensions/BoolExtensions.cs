@@ -1,4 +1,4 @@
-namespace NQH.Core.Runtime.Extensions
+namespace NabaGame.Core.Runtime.Extensions
 {
     public static class BoolExtensions
     {

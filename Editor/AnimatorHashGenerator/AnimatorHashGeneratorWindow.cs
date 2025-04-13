@@ -6,13 +6,13 @@ using Sirenix.Utilities;
 using Sirenix.Utilities.Editor;
 #endif
 
-namespace NQH.Core.Editor
+namespace NabaGame.Core.Editor
 {
 #if ODIN_INSPECTOR
 
     public class AnimatorHashGeneratorWindow : OdinMenuEditorWindow
     {
-        [MenuItem("NQH/Editor Tools/Animator Hash Generator", false, 100)]
+        [MenuItem("Naba Game/Editor Tools/Animator Hash Generator", false, 100)]
         private static void OpenWindow()
         {
             var window = GetWindow<AnimatorHashGeneratorWindow>();
@@ -43,7 +43,7 @@ namespace NQH.Core.Editor
 #else
     public class AnimatorHashGeneratorWindow 
     {
-        [MenuItem("NQH/Editor Tools/Animator Hash Generator", false, 100)]
+        [MenuItem("Naba Game/Editor Tools/Animator Hash Generator", false, 100)]
         static void OpenWarningPanel()
         {
             EditorUtility.DisplayDialog("Install Odin", "Please Install Odin Package to use Animator Hash", "OK");

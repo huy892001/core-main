@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace NQH.Core.Runtime.Utils
+namespace NabaGame.Core.Runtime.Utils
 {
     public static class CameraTools
     {

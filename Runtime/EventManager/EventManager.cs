@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace NQH.Core.Runtime.EventManager
+namespace NabaGame.Core.Runtime.EventManager
 {
     /// <summary>
     /// Event Manager manages publishing raised events to subscribing/listening classes.
