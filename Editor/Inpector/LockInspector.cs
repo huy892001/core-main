@@ -29,7 +29,7 @@ namespace NQH.Core.Editor.Inpector
         {
     #if UNITY_2023_2_OR_NEWER
             // New approach for Unity 2023.2 and above, including Unity 6
-            var inspectorWindowType = typeof(Editor).Assembly.GetType("UnityEditor.InspectorWindow");
+            var inspectorWindowType = typeof(UnityEditor.Editor).Assembly.GetType("UnityEditor.InspectorWindow");
             
             foreach (var inspectorWindow in Resources.FindObjectsOfTypeAll(inspectorWindowType)) {
                 var lockTracker = inspectorWindowType.GetField("m_LockTracker", bindingFlags)?.GetValue(inspectorWindow);
